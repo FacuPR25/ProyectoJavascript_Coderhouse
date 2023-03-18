@@ -38,5 +38,5 @@ while (eligioRopa === false) {
   continue;
 }
 alert("Usted eligió: " + cantidadRopa + " " + infoRopaElegida.tipo);
-console.log(cantidadRopa);
-Array 
+
+
